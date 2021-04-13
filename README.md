@@ -16,14 +16,14 @@ npx create-nx-workspace --preset=react --package-manager=yarn
 
 ### What is covered?
 
-- Redux Integration
-- React App
-- Reusable themes
-- DSM Tokens
-- Reusable Redux helpers
-- Reusable Utils
-- Docker files
-- Azure Deployments for only changed projects.
+- [ ] Redux Integration
+- [ ] React App
+- [ ] Reusable themes
+- [ ] DSM Tokens
+- [ ] Reusable Redux helpers
+- [ ] Reusable Utils
+- [ ] Docker files
+- [ ] Azure Deployments for only changed projects.
 
 ## Adding capabilities to your workspace
 
