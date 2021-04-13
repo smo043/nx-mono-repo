@@ -24,7 +24,7 @@ npx create-nx-workspace --preset=react --package-manager=yarn
 - [ ] Reusable Utils
 - [ ] Docker files
 - [ ] Azure Deployments for only changed projects.
-- [x] [My VSCode Extensions Recommendations](https://gist.github.com/smo043/94ee049e464532715c3188bda72353b9.js)
+- [x] [My VSCode Extensions Recommendations](https://gist.github.com/smo043/94ee049e464532715c3188bda72353b9)
 
 ## Adding capabilities to your workspace
 
